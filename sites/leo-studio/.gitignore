@@ -1,0 +1,8 @@
+.DS_Store
+node_modules/
+*.tar.gz
+*.zip
+
+# The parent app ignores build output; this Site is buildless source.
+!dist/
+!dist/**

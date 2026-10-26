@@ -1,0 +1,462 @@
+{
+  "campaign": {
+    "mn": "Гэрлийн ул мөр",
+    "en": "Traces of light"
+  },
+  "hero": [
+    {
+      "selector": "#home .hero-quote > p:nth-of-type(1)",
+      "mn": "Гэрлийн ул мөр.",
+      "en": "Traces of light.",
+      "oldMn": "Байгалийг өмсөж болох урлаг болгон.",
+      "oldEn": "Nature, becoming wearable art.",
+      "oldInnerHTML": "Байгалийг өмсөж болох урлаг болгон."
+    },
+    {
+      "selector": "#home .hero-quote > p:nth-of-type(2)",
+      "mn": "Сүүн цагаан ба гүн хөх. Ургамлын нарийн дүрс ба эсгүүрийн тод шугам. LEO STUDIO-ийн шинэ концепц цуврал эдгээр харьцааг таван загвараар судална.",
+      "en": "Ivory and deep blue. Delicate botanical forms and a clear silhouette. A new concept collection from LEO STUDIO explores these relationships through five designs.",
+      "oldMn": "LEO STUDIO-ийн ертөнцөд хувцас, дүрс, урлахуй нэгэн хэлээр ярьдаг. Навчны судал, даавууны ширхэг, нарны гэрэл — бүтээл бүрийн эхлэл.",
+      "oldEn": "In the world of LEO STUDIO, clothing, image and craft share a visual language. The veins of a leaf, the weave of a fabric, a moment of sunlight — the beginnings of a piece.",
+      "oldInnerHTML": "LEO STUDIO-ийн ертөнцөд хувцас, дүрс, урлахуй нэгэн хэлээр ярьдаг. Навчны судал, даавууны ширхэг, нарны гэрэл — бүтээл бүрийн эхлэл."
+    },
+    {
+      "selector": "#home .hero-quote > p:nth-of-type(3)",
+      "mn": "Биеийн хөдөлгөөнийг дагах хээ. Даавууны нэхээсийг тодруулах гэрэл. Өдөр тутмын эд зүйлд шингэх байгалийн дүрс.",
+      "en": "Pattern following the body. Light revealing the weave. Natural forms finding a place in everyday objects.",
+      "oldMn": "Байгалийн энгийн дүрсийг ажиглах. Гэрлийн үлдээсэн мөрийг хадгалах. Өөрийн гэсэн хөх ертөнцийг бүтээх.",
+      "oldEn": "Observe a quiet form in nature. Preserve the trace of light. Create a world of blue.",
+      "oldInnerHTML": "Байгалийн энгийн дүрсийг ажиглах. Гэрлийн үлдээсэн мөрийг хадгалах. Өөрийн гэсэн хөх ертөнцийг бүтээх."
+    },
+    {
+      "selector": "#home .hero-quote > p:nth-of-type(4)",
+      "mn": "Хувцас. Урлахуй. Өдөр тутмын хэлбэр.",
+      "en": "Fashion. Craft. Everyday form.",
+      "oldMn": "Нарны гэрлээр урласан.",
+      "oldEn": "Made of sunlight.",
+      "oldInnerHTML": "Нарны гэрлээр урласан."
+    }
+  ],
+  "collection": [
+    {
+      "selector": "#collection .strip-heading > h2",
+      "mn": "Нэг цуврал. Таван өөр төрх.",
+      "en": "One collection. Five expressions.",
+      "oldMn": "Бүтээл бүр өөрийн түүхтэй.",
+      "oldEn": "Every piece, a story.",
+      "oldInnerHTML": "Бүтээл бүр өөрийн түүхтэй."
+    }
+  ],
+  "craft": [
+    {
+      "selector": "#craft .editorial-copy > h2",
+      "mn": "УРГАМЛААС ХЭЭ РҮҮ",
+      "en": "FROM PLANT TO PATTERN",
+      "oldMn": "ЦИАНОТИП",
+      "oldEn": "CYANOTYPE",
+      "oldInnerHTML": "ЦИАНОТИП"
+    },
+    {
+      "selector": "#craft .editorial-copy > p",
+      "mn": "Навчны судал, ишний нугаралт, цэцгийн нарийн сүүдэр. Цианотипийн цагаан мөр, гүн хөх өнгө энэ цувралын хээний эхлэл болно. Ургамлын зохиомжоос даавууны гадаргуу хүртэл — дүрс, нэхээс, хоосон зайн харьцааг судлах нь.",
+      "en": "Leaf veins, curved stems, the fine shadow of a flower. The pale traces and deep blue of cyanotype form the collection’s visual starting point. From a botanical arrangement to the surface of cloth: a study of image, weave and open space.",
+      "oldMn": "Гэрлээр дүрс бүтээх урлаг. Навчны хэлбэр, даавууны бүтэц, хөх өнгөний гүн нь нэг гадаргуу дээр уулзана. Цианотипийн гэрэлд мэдрэмтгий гадаргуу дээр дүрсээ өрж, нарны гэрэлд ил гарган, усаар зайлахад онцгой хөх мөр үлддэг.",
+      "oldEn": "The art of making images with light. A leaf’s form, the structure of fabric and the depth of blue meet on one surface. A form is arranged on a light-sensitive surface, exposed to sunlight and rinsed with water, revealing a distinctive blue trace.",
+      "oldInnerHTML": "Гэрлээр дүрс бүтээх урлаг. Навчны хэлбэр, даавууны бүтэц, хөх өнгөний гүн нь нэг гадаргуу дээр уулзана. Цианотипийн гэрэлд мэдрэмтгий гадаргуу дээр дүрсээ өрж, нарны гэрэлд ил гарган, усаар зайлахад онцгой хөх мөр үлддэг."
+    },
+    {
+      "selector": "#craft .editorial-copy > a",
+      "mn": "ТАВАН ЗАГВАРЫГ ҮЗЭХ",
+      "en": "VIEW THE FIVE DESIGNS",
+      "oldMn": "БҮТЭЭЛҮҮДИЙГ ҮЗЭХ",
+      "oldEn": "EXPLORE THE PIECES",
+      "oldInnerHTML": "БҮТЭЭЛҮҮДИЙГ ҮЗЭХ"
+    }
+  ],
+  "new_wave": [
+    {
+      "selector": "#new-wave .wave-feature-copy > h2",
+      "mn": "ХЭЭ БА ЭСГҮҮР",
+      "en": "PATTERN AND CUT",
+      "oldMn": "ШИНЭ ХЭМНЭЛ",
+      "oldEn": "A NEW RHYTHM",
+      "oldInnerHTML": "ШИНЭ ХЭМНЭЛ"
+    },
+    {
+      "selector": "#new-wave .wave-feature-copy > p",
+      "mn": "Хээ хаана эхэлж, хаана дуусах нь хувцасны төрхийг өөрчилнө. Гүн хөх талбайг сүүн цагаан гадаргуутай зэрэгцүүлж, ургамлын дүрсийг энгэр, ханцуй, хормойн шугамд байрлууллаа.",
+      "en": "Where a pattern begins and ends changes the silhouette. Deep blue meets an ivory ground, with botanical forms placed along the front, sleeve and hem.",
+      "oldMn": "Байгалийн дүрсээс эхэлсэн судалгаа. LEO STUDIO нь ургамлын шугам, эсгүүрийн хэлбэр, даавууны гадаргууг хооронд нь холбож, хувцсыг дүрслэх урлагийн нэг хэсэг болгон хардаг.",
+      "oldEn": "A study beginning with natural forms. LEO STUDIO connects botanical lines, the shape of a garment and the surface of fabric, approaching clothing as a form of visual expression.",
+      "oldInnerHTML": "Байгалийн дүрсээс эхэлсэн судалгаа. LEO STUDIO нь ургамлын шугам, эсгүүрийн хэлбэр, даавууны гадаргууг хооронд нь холбож, хувцсыг дүрслэх урлагийн нэг хэсэг болгон хардаг."
+    },
+    {
+      "selector": "#new-wave .wave-feature-copy > a",
+      "mn": "ЦУВРАЛЫГ ҮЗЭХ",
+      "en": "VIEW THE COLLECTION",
+      "oldMn": "ЦИАНОТИП ҮЗЭХ",
+      "oldEn": "EXPLORE CYANOTYPE",
+      "oldInnerHTML": "ЦИАНОТИП ҮЗЭХ"
+    },
+    {
+      "selector": "#new-wave .wave-main figcaption > .serif-body",
+      "mn": "Ойроос: хээ, нэхээс, гэрэл.",
+      "en": "Up close: pattern, weave, light.",
+      "oldMn": "Навч, гэрэл, даавуу.",
+      "oldEn": "Leaf, light, fabric.",
+      "oldInnerHTML": "Навч, гэрэл, даавуу."
+    },
+    {
+      "selector": "#new-wave .wave-main .caption-code",
+      "mn": "LEO — ДААВУУНЫ СУДАЛГАА|Концепц дүрслэл",
+      "en": "LEO — TEXTILE STUDY|Concept imagery",
+      "oldMn": "LEO — TEXTUREConcept imagery",
+      "oldEn": "LEO — TEXTUREConcept imagery",
+      "oldInnerHTML": "LEO — TEXTURE<br><em>Concept imagery</em>"
+    },
+    {
+      "selector": "#new-wave .wave-left figcaption > .serif-body",
+      "mn": "Навчны сүүдэр. Гүн хөх пальто.",
+      "en": "Leaf shadow. A coat in deep blue.",
+      "oldMn": "Үндэс. Хувцасны хэлбэр дагасан зураас.",
+      "oldEn": "Roots. A line following the garment.",
+      "oldInnerHTML": "Үндэс. Хувцасны хэлбэр дагасан зураас."
+    },
+    {
+      "selector": "#new-wave .wave-left > p",
+      "mn": "Урт эсгүүр дээрх цайвар навчнууд босоо хэмнэл үүсгэнэ. Том хөх талбай хээг тодруулж, нугалаа бүр дүрсний чиглэлийг өөрчилнө.",
+      "en": "Pale leaves create a vertical rhythm across a long silhouette. Broad areas of blue give the pattern definition; each fold shifts its direction.",
+      "oldMn": "Байгалийн салаалсан бүтэц нь мөр, энгэр, хажуугийн шугамтай холбогдоно. Дүрс нь хувцасны гадаргуу дээр тусдаа бус, түүний хэлбэртэй хамт оршино.",
+      "oldEn": "A branching structure connects with the shoulder, neckline and side seams. The image belongs to the garment, becoming part of its shape.",
+      "oldInnerHTML": "Байгалийн салаалсан бүтэц нь мөр, энгэр, хажуугийн шугамтай холбогдоно. Дүрс нь хувцасны гадаргуу дээр тусдаа бус, түүний хэлбэртэй хамт оршино."
+    },
+    {
+      "selector": "#new-wave .wave-left .caption-code",
+      "mn": "LEO — 03|Пальтоны концепц",
+      "en": "LEO — 03|Coat concept",
+      "oldMn": "LEO — 03Design study",
+      "oldEn": "LEO — 03Design study",
+      "oldInnerHTML": "LEO — 03<br><em>Design study</em>"
+    },
+    {
+      "selector": "#new-wave .wave-right figcaption > .serif-body",
+      "mn": "Өдрийн цэнхэр. Цагаан цамцан дээр.",
+      "en": "Daylight blue. On an ivory shirt.",
+      "oldMn": "Хөх цэцэглэлт.",
+      "oldEn": "Blue in bloom.",
+      "oldInnerHTML": "Хөх цэцэглэлт."
+    },
+    {
+      "selector": "#new-wave .wave-right > p",
+      "mn": "Сүүн цагаан цамцны цэвэр шугамыг хөх ургамлын дүрс дагана. Хээтэй хэсэг, чөлөөтэй үлдээсэн гадаргуу хоёр өдөр тутмын хувцасны тэнцвэрийг тогтооно.",
+      "en": "Blue botanicals follow the clean lines of an ivory shirt. Printed areas and open ground bring balance to an everyday shape.",
+      "oldMn": "Босоо хэмнэл, нарийн шугам, чөлөөт зай. Энгийн хувцасны хэлбэр дээр хөх өнгийн дүрс өөрийн гэсэн тэнцвэрийг олно.",
+      "oldEn": "Vertical rhythm, fine lines and open space. On a simple garment, blue forms find their own balance.",
+      "oldInnerHTML": "Босоо хэмнэл, нарийн шугам, чөлөөт зай. Энгийн хувцасны хэлбэр дээр хөх өнгийн дүрс өөрийн гэсэн тэнцвэрийг олно."
+    },
+    {
+      "selector": "#new-wave .wave-right .caption-code",
+      "mn": "LEO — 02|Цамцны концепц",
+      "en": "LEO — 02|Shirt concept",
+      "oldMn": "LEO — 02Design study",
+      "oldEn": "LEO — 02Design study",
+      "oldInnerHTML": "LEO — 02<br><em>Design study</em>"
+    },
+    {
+      "selector": "#new-wave .wave-right > a",
+      "mn": "ЗАГВАРУУДЫГ ДЭЛГЭРҮҮЛЭХ",
+      "en": "EXPLORE THE DESIGNS",
+      "oldMn": "СУДАЛГААГ ҮЗЭХ",
+      "oldEn": "EXPLORE THE STUDIES",
+      "oldInnerHTML": "СУДАЛГААГ ҮЗЭХ"
+    }
+  ],
+  "world": [
+    {
+      "selector": "#world .world-caption > span",
+      "mn": "УРЛАХУЙН ДҮРСЛЭЛ",
+      "en": "A STUDY OF MAKING",
+      "oldMn": "ГЭРЭЛ ДҮРС БОЛОХ НЬ",
+      "oldEn": "WHEN LIGHT BECOMES FORM",
+      "oldInnerHTML": "ГЭРЭЛ ДҮРС БОЛОХ НЬ"
+    },
+    {
+      "selector": "#world .world-statement",
+      "mn": "Нэг навчнаас|бүхэл зохиомж.",
+      "en": "From a single leaf|to a complete composition.",
+      "oldMn": "Навчны нэг судал ч|өөрийн гэсэн түүхтэй.",
+      "oldEn": "Even the smallest vein|of a leaf has a story.",
+      "oldInnerHTML": "Навчны нэг судал ч<br>өөрийн гэсэн түүхтэй."
+    },
+    {
+      "selector": "#world .world-quote > p:nth-of-type(2)",
+      "mn": "Ургамлыг өрөх гар, усанд нээгдэх хөх өнгө, нойтон даавууны нугалаа. Энэ цувралын урлахуйн дүрслэл нь үйл явцын эдгээр жижиг ялгаанд анхаарна.",
+      "en": "A hand arranging stems. Blue emerging in water. The folds of wet cloth. The collection’s craft imagery focuses on these small details of the process.",
+      "oldMn": "Материалтай ажиллах цаг хугацаа, гэрлийг хүлээх тэвчээр, гараар урлах мэдрэмж. LEO STUDIO-ийн ертөнц эдгээр жижиг агшнаас бүтнэ.",
+      "oldEn": "Time spent with a material. Patience for the light. The feeling of making by hand. The world of LEO STUDIO is made of these small moments.",
+      "oldInnerHTML": "Материалтай ажиллах цаг хугацаа, гэрлийг хүлээх тэвчээр, гараар урлах мэдрэмж. LEO STUDIO-ийн ертөнц эдгээр жижиг агшнаас бүтнэ."
+    }
+  ],
+  "one_of_one": [
+    {
+      "selector": "#one-of-one .one-copy > h3",
+      "mn": "НЭГ ХЭЭ.|ӨӨР ӨӨР ИЛЭРХИЙЛЭЛ.",
+      "en": "ONE PATTERN.|DISTINCT EXPRESSIONS.",
+      "oldMn": "НЭГ ДҮРС. НЭГ МЭДРЭМЖ.|ХУВЬ ХҮНИЙ ЕРТӨНЦИЙГ ИЛЭРХИЙЛЭХ БҮТЭЭЛИЙН СУДАЛГАА.",
+      "oldEn": "ONE FORM. ONE FEELING.|DESIGN STUDIES FOR AN INDIVIDUAL WORLD.",
+      "oldInnerHTML": "НЭГ ДҮРС. НЭГ МЭДРЭМЖ.<br>ХУВЬ ХҮНИЙ ЕРТӨНЦИЙГ ИЛЭРХИЙЛЭХ БҮТЭЭЛИЙН СУДАЛГАА."
+    },
+    {
+      "selector": "#one-of-one .one-copy > p",
+      "mn": "Навчны нэг дүрс урт даашинзан дээр босоо хэмнэл, алчуур дээр чөлөөт хөдөлгөөн, цүнхэн дээр тод төвлөрөл болно. Таван загвар нь нэг хээг хэмжээ, байрлал, харьцаагаар өөрчилсөн судалгаа юм.",
+      "en": "A leaf becomes a vertical rhythm on a long dress, a fluid gesture on a scarf, a focal point on a tote. Five designs explore how scale, placement and proportion transform a shared motif.",
+      "oldMn": "Зарим санаа нэг навчнаас эхэлнэ. Зарим нь даавууны ширхэг, сүүдрийн хэлбэр, санамсаргүй таарсан зурааснаас төрнө. Энэ хэсэгт LEO-ийн бие даасан дүрс, хувцасны загварын судалгааг нэгтгэлээ.",
+      "oldEn": "Some ideas begin with a leaf. Others emerge from the texture of cloth, the shape of a shadow or a line discovered by chance. Here, independent images and garment studies come together.",
+      "oldInnerHTML": "Зарим санаа нэг навчнаас эхэлнэ. Зарим нь даавууны ширхэг, сүүдрийн хэлбэр, санамсаргүй таарсан зурааснаас төрнө. Энэ хэсэгт LEO-ийн бие даасан дүрс, хувцасны загварын судалгааг нэгтгэлээ."
+    },
+    {
+      "selector": "#one-of-one .one-copy > a",
+      "mn": "ДҮРСЛЭЛҮҮДИЙГ ҮЗЭХ",
+      "en": "VIEW THE IMAGERY",
+      "oldMn": "СУДАЛГААГ НЭЭХ",
+      "oldEn": "EXPLORE THE STUDIES",
+      "oldInnerHTML": "СУДАЛГААГ НЭЭХ"
+    },
+    {
+      "selector": "#one-of-one .one-description",
+      "mn": "Даашинз, цамц, пальто, алчуур, цүнх. Цианотипээс сэдэвлэсэн таван концепц, нэгэн цогц өнгөний шийдэл.",
+      "en": "Dress, shirt, coat, scarf, tote. Five cyanotype-inspired concepts, connected by a single palette.",
+      "oldMn": "Зураасан хээ, ургамлын дүрс, цианотипийн хөх өнгө. Нэг санааг өөр өөр гадаргуу дээр дахин нээх боломж.",
+      "oldEn": "Linework, botanical forms and the blue of cyanotype. An opportunity to rediscover an idea across different surfaces.",
+      "oldInnerHTML": "Зураасан хээ, ургамлын дүрс, цианотипийн хөх өнгө. Нэг санааг өөр өөр гадаргуу дээр дахин нээх боломж."
+    }
+  ],
+  "commission": [
+    {
+      "selector": "#commission .commission-copy h2",
+      "mn": "САНААНААС|ХЭЛБЭР РҮҮ",
+      "en": "FROM IDEA|TO FORM",
+      "oldMn": "ӨӨРИЙН ЕРТӨНЦӨӨ|УРЛАХ НЬ",
+      "oldEn": "CREATE A WORLD|OF YOUR OWN",
+      "oldInnerHTML": "ӨӨРИЙН ЕРТӨНЦӨӨ<br>УРЛАХ НЬ"
+    },
+    {
+      "selector": "#commission .commission-copy p",
+      "mn": "Эхлээд ургамлын дүрс. Дараа нь хээний хэмжээ, байрлал, өнгөний харьцаа. Эцэст нь хувцасны эсгүүр, дагалдах эдлэлийн хэлбэр. «Гэрлийн ул мөр» эдгээр сонголтыг нэг цуврал болгон холбосон загварын судалгаа юм.",
+      "en": "First, a botanical form. Then scale, placement and the balance of colour. Finally, the cut of a garment or the shape of an accessory. Traces of light is a design study that brings these decisions into one collection.",
+      "oldMn": "Бүтээл нэг санаанаас эхэлдэг. Байгалиас сонгосон дүрс, өөрт ойр өнгө, өмсөхийг хүссэн хэлбэр. Эдгээрийг хамтад нь харж, энгийн санааг материал, хээ, хувцасны хэлээр илэрхийлэх нь LEO STUDIO-ийн бүтээлч судалгааны гол цөм.",
+      "oldEn": "A piece begins with an idea. A form found in nature, a color that feels personal, a shape you want to wear. Bringing these together — translating an idea through material, pattern and clothing — is the heart of LEO STUDIO’s creative exploration.",
+      "oldInnerHTML": "Бүтээл нэг санаанаас эхэлдэг. Байгалиас сонгосон дүрс, өөрт ойр өнгө, өмсөхийг хүссэн хэлбэр. Эдгээрийг хамтад нь харж, энгийн санааг материал, хээ, хувцасны хэлээр илэрхийлэх нь LEO STUDIO-ийн бүтээлч судалгааны гол цөм."
+    },
+    {
+      "selector": "#commission .commission-copy a",
+      "mn": "ХЭЭНИЙ ЭХЛЭЛИЙГ ҮЗЭХ",
+      "en": "EXPLORE THE STARTING POINT",
+      "oldMn": "УРЛАХУЙТАЙ ТАНИЛЦАХ",
+      "oldEn": "ENTER THE PROCESS",
+      "oldInnerHTML": "УРЛАХУЙТАЙ ТАНИЛЦАХ"
+    }
+  ],
+  "beyond": [
+    {
+      "selector": "#beyond .beyond-copy > h2",
+      "mn": "НЭГЭН ЦОГЦ ТӨРХ",
+      "en": "A SHARED VISUAL WORLD",
+      "oldMn": "LEO-ИЙН ЕРТӨНЦ",
+      "oldEn": "BEYOND LEO",
+      "oldInnerHTML": "LEO-ИЙН ЕРТӨНЦ"
+    },
+    {
+      "selector": "#beyond .beyond-copy > h3",
+      "mn": "ХУВЦАСНААС ДАГАЛДАХ ЭДЛЭЛ,|ЖИЖИГ ДЕТАЛЬ ХҮРТЭЛ.",
+      "en": "FROM CLOTHING TO ACCESSORIES,|DOWN TO THE SMALLEST DETAIL.",
+      "oldMn": "ХУВЦАС, ДҮРС, МАТЕРИАЛЫН|ХООРОНДОХ БҮТЭЭЛЧ ХЭЛ.",
+      "oldEn": "A CREATIVE LANGUAGE BETWEEN|CLOTHING, IMAGE AND MATERIAL.",
+      "oldInnerHTML": "ХУВЦАС, ДҮРС, МАТЕРИАЛЫН<br>ХООРОНДОХ БҮТЭЭЛЧ ХЭЛ."
+    },
+    {
+      "selector": "#beyond .beyond-copy > p:nth-of-type(1)",
+      "mn": "Ургамлын дүрс хувцаснаас цааш үргэлжилнэ. Алчуурын нугалаа, цүнхний тэгш гадаргуу, савлагааны тууз дээр нэг өнгөний шийдэл шинэ харьцаагаар илэрнэ.",
+      "en": "The botanical motif continues beyond clothing. Across the fold of a scarf, the flat face of a tote and a ribbon around a box, the same palette takes on new proportions.",
+      "oldMn": "Цианотипийн хөх өнгө хувцаснаас цааш үргэлжилнэ. Даавуун дээрх дүрс, ургамлын судалгаа, савлагааны жижиг деталь. Эдгээр нь LEO STUDIO-ийн нэгэн бүхэл ертөнцийн хэсгүүд.",
+      "oldEn": "The blue of cyanotype continues beyond clothing. An image on fabric, a botanical study, a small packaging detail. These belong to one complete LEO STUDIO world.",
+      "oldInnerHTML": "Цианотипийн хөх өнгө хувцаснаас цааш үргэлжилнэ. Даавуун дээрх дүрс, ургамлын судалгаа, савлагааны жижиг деталь. Эдгээр нь LEO STUDIO-ийн нэгэн бүхэл ертөнцийн хэсгүүд."
+    },
+    {
+      "selector": "#beyond .beyond-copy > p:nth-of-type(2)",
+      "mn": "Сүүн цагаан нь зай гаргана. Гүн хөх нь дүрсийг тодруулна.",
+      "en": "Ivory creates space. Deep blue gives the image definition.",
+      "oldMn": "Гүн хөх нь дүрсийг хадгална. Дулаан улбар шар нь түүнийг бүтээсэн нарны гэрлийг сануулна.",
+      "oldEn": "Deep blue preserves the image. Warm peach recalls the sunlight that made it.",
+      "oldInnerHTML": "Гүн хөх нь дүрсийг хадгална. Дулаан улбар шар нь түүнийг бүтээсэн нарны гэрлийг сануулна."
+    },
+    {
+      "selector": "#beyond .beyond-copy > button",
+      "mn": "ЗУРГИЙН ЕРТӨНЦИЙГ НЭЭХ",
+      "en": "OPEN THE VISUAL WORLD",
+      "oldMn": "LEO МЭДРЭМЖИЙГ НЭЭХ",
+      "oldEn": "ENTER THE LEO EXPERIENCE",
+      "oldInnerHTML": "LEO МЭДРЭМЖИЙГ НЭЭХ"
+    }
+  ],
+  "gifting": [
+    {
+      "selector": "#gifting .gifting-copy > h2",
+      "mn": "НЭЭХ АГШИН",
+      "en": "THE MOMENT OF OPENING",
+      "oldMn": "БЭЛЭГЛЭХИЙН УРЛАГ",
+      "oldEn": "THE ART OF GIFTING",
+      "oldInnerHTML": "БЭЛЭГЛЭХИЙН УРЛАГ"
+    },
+    {
+      "selector": "#gifting .gifting-copy > p",
+      "mn": "Цайвар хайрцаг, гүн хөх тууз, ургамлын дүрстэй карт. Савлагааны энэ концепц нь цувралын өнгө, хээг цөөн деталд шингээнэ. Гаднаас нь эхэлсэн зохиомж доторх эдлэлтэйгээ үргэлжлэх санаа.",
+      "en": "A pale box, a deep blue ribbon, a botanical card. This packaging concept carries the collection’s palette and pattern into a few considered details. A composition that begins outside and continues with the piece within.",
+      "oldMn": "Бэлэг бол зөвхөн эд зүйл биш. Түүнийг сонгосон сэтгэл, материалын мэдрэмж, нээх агшин. LEO-ийн савлагааны концепц нь байгалийн бор цаас, гүн хөх өнгө, энгийн хэлбэрийг нэгтгэдэг.",
+      "oldEn": "A gift is more than an object. It carries the thought behind the choice, the feeling of a material and the moment of opening it. LEO’s packaging concept brings together natural kraft paper, deep blue and simple forms.",
+      "oldInnerHTML": "Бэлэг бол зөвхөн эд зүйл биш. Түүнийг сонгосон сэтгэл, материалын мэдрэмж, нээх агшин. LEO-ийн савлагааны концепц нь байгалийн бор цаас, гүн хөх өнгө, энгийн хэлбэрийг нэгтгэдэг."
+    },
+    {
+      "selector": "#gifting .gifting-copy > button",
+      "mn": "САВЛАГААГ ДЭЛГЭРҮҮЛЭХ",
+      "en": "VIEW THE PACKAGING",
+      "oldMn": "САВЛАГААНЫ САНААГ ҮЗЭХ",
+      "oldEn": "EXPLORE THE PACKAGING",
+      "oldInnerHTML": "САВЛАГААНЫ САНААГ ҮЗЭХ"
+    }
+  ],
+  "gallery": [
+    {
+      "selector": "#gallery .see-full",
+      "mn": "ДҮРСЛЭЛҮҮДИЙГ НЭЭХ ›",
+      "en": "OPEN THE IMAGERY ›",
+      "oldMn": "БҮГДИЙГ НЭЭХ ›",
+      "oldEn": "SEE FULL ›",
+      "oldInnerHTML": "БҮГДИЙГ НЭЭХ ›"
+    }
+  ],
+  "discover": [
+    {
+      "selector": "#discover > h2",
+      "mn": "Нэг дүрсийг|ойроос нээ.",
+      "en": "Take a closer look|at a single design.",
+      "oldMn": "Таны дараагийн дуртай|бүтээл эндээс эхэлнэ.",
+      "oldEn": "Discover your next|favorite piece.",
+      "oldInnerHTML": "Таны дараагийн дуртай<br>бүтээл эндээс эхэлнэ."
+    }
+  ],
+  "footer": [
+    {
+      "selector": ".footer-bottom > span:nth-of-type(2)",
+      "mn": "ЦИАНОТИПЭЭС СЭДЭВЛЭСЭН ЗАГВАРЫН СУДАЛГАА",
+      "en": "CYANOTYPE-INSPIRED DESIGN STUDIES",
+      "oldMn": "CYANOTYPE FASHION STUDIO",
+      "oldEn": "CYANOTYPE FASHION STUDIO",
+      "oldInnerHTML": "CYANOTYPE FASHION STUDIO"
+    }
+  ],
+  "concept_notice": [
+    {
+      "selector": "#piece-dialog .detail-notice",
+      "mn": "AI-аар бүтээсэн концепц дүрслэл. Бодит бүтээгдэхүүн, үйлдвэрлэл, материалын найрлага, худалдааны санал биш.",
+      "en": "AI-generated concept imagery. This is not a physical product, production record, material specification or offer for sale.",
+      "oldMn": "AI-аар бүтээсэн загварын концепц. Борлуулалтын бүтээгдэхүүний зураг биш.",
+      "oldEn": "AI-generated design concept. Not a photograph of a product offered for sale.",
+      "oldInnerHTML": "AI-аар бүтээсэн загварын концепц. Борлуулалтын бүтээгдэхүүний зураг биш."
+    }
+  ],
+  "pieces": [
+    {
+      "id": "01",
+      "type": "blue",
+      "name": {
+        "mn": "Гэрлийн ул мөр",
+        "en": "Traces of light"
+      },
+      "description": {
+        "mn": "Сүүн цагаан урт даашинзны гүн хөх хэсгүүд дээр цайвар ургамлын дүрс тодорно. Босоо хэмнэл, урт эсгүүр, чөлөөтэй үлдээсэн гадаргууны харьцааг судалсан концепц.",
+        "en": "Pale botanical forms appear across deep blue panels on a long ivory dress. A concept study in vertical rhythm, an elongated silhouette and open ground."
+      }
+    },
+    {
+      "id": "02",
+      "type": "blue",
+      "name": {
+        "mn": "Өдрийн цэнхэр",
+        "en": "Daylight blue"
+      },
+      "description": {
+        "mn": "Эрэгтэй сүүн цагаан цамцны цэвэр эсгүүрийг хөх ургамлын хээ дагана. Өдөр тутмын хэлбэр дээр хээний хэмжээ, байрлал, хоосон зайн тэнцвэрийг судалсан концепц.",
+        "en": "Blue botanical prints follow the clean cut of an ivory menswear shirt. A concept exploring scale, placement and negative space within an everyday silhouette."
+      }
+    },
+    {
+      "id": "03",
+      "type": "blue",
+      "name": {
+        "mn": "Навчны сүүдэр",
+        "en": "Leaf shadow"
+      },
+      "description": {
+        "mn": "Эмэгтэй гүн хөх пальтон дээр цайвар навчны дүрс уртааш үргэлжилнэ. Том өнгөн талбай ба нарийн хээг урт эсгүүртэй уялдуулсан концепц.",
+        "en": "Pale leaf forms extend along a deep blue womenswear coat. A concept pairing broad fields of colour with fine botanical detail and a long silhouette."
+      }
+    },
+    {
+      "id": "04",
+      "type": "line",
+      "name": {
+        "mn": "Хөх урсгал",
+        "en": "Blue current"
+      },
+      "description": {
+        "mn": "Торгон алчуурын концепц дээр ургамлын хээ нугалаа бүрт өөр өнцгөөр харагдана. Гүн хөх, сүүн цагаан өнгөний харьцааг зөөлөн хөдөлгөөнөөр илэрхийлсэн загвар.",
+        "en": "A silk scarf concept in which botanical forms shift with each fold. Fluid movement gives a new expression to deep blue and ivory."
+      }
+    },
+    {
+      "id": "05",
+      "type": "line",
+      "name": {
+        "mn": "Өдрийн дүрс",
+        "en": "Daily impression"
+      },
+      "description": {
+        "mn": "Сүүн цагаан маалинган цүнхний концепц. Тэгш гадаргуу дээр төвлөрсөн хөх ургамлын дүрс, энгийн бариул, тод харьцаа нь өдөр тутмын эдлэлийн төрхийг бүрдүүлнэ.",
+        "en": "An ivory linen tote concept. A concentrated blue botanical image, simple handles and clear proportions define an everyday object."
+      }
+    }
+  ],
+  "optional_supporting_copy": {
+    "gallery": {
+      "mn": "Гэрлийн ул мөр: хувцасны төрх, урлахуйн агшин, эдлэлийн деталь.",
+      "en": "Traces of light: fashion portraits, moments of craft and object details."
+    },
+    "discover": {
+      "mn": "Загварын нэрээр хайж, дүрслэлийг дэлгэрүүлэн үзээрэй.",
+      "en": "Search by design name and explore the imagery in detail."
+    },
+    "footer_brand_description": {
+      "mn": "LEO STUDIO — цианотипийн дүрслэлийг хувцас, дагалдах эдлэл, савлагааны концепцоор судлах бүтээлч төсөл.",
+      "en": "LEO STUDIO is a creative project exploring the visual language of cyanotype through clothing, accessories and packaging concepts."
+    }
+  },
+  "integration_notes": [
+    "All entries outside pieces and metadata use selectors already present in dist/index.html; each selector must match exactly one element.",
+    "Preserve the existing AOI-style section structure and layout. The | character indicates an intentional line break.",
+    "The existing gallery has no heading or body paragraph, and discover has no paragraph. Optional supporting copy is supplied separately and has no selector; do not replace section containers with it.",
+    "The existing footer has no brand-description paragraph. Its short descriptor is updated via the existing second span; the longer optional description is available only if a layout-safe placement is chosen.",
+    "Pieces are data records in pieces.js, rendered dynamically. Their names and descriptions should update that data array, not repeatedly overwrite the shared #piece-title and #piece-description dialog nodes.",
+    "The 1 of 1 display heading is preserved as requested by the existing layout; the supporting copy explicitly frames these as individual concept studies, never one-off goods for sale.",
+    "Titles and descriptions name intended garments and material concepts; none claim verified fabrication, availability, certification, pricing, place of manufacture or sales.",
+    "Caption-code entries include line breaks. Preserve their current small-caption and italic second-line styling when integrating.",
+    "The craft and process text describes the visual study. Keep the shared AI concept disclosure clearly available in the imagery info dialog and individual design dialog.",
+    "Keep the existing data-filter/data-gallery/type keys, relabel blue as ХУВЦАС / CLOTHING for dress, shirt and coat; relabel line as ЖИЖИГ ЭДЛЭЛ / OBJECTS for scarf and tote. These are presentation categories, not printing processes."
+  ],
+  "validation": {
+    "unique_selector_count": 42,
+    "all_match_exactly_one_element": true,
+    "method": "Python standard-library HTMLParser tree with CSS tag/id/class, descendant, child and nth-of-type matching",
+    "pieces": 5
+  }
+}

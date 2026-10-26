@@ -17,3 +17,14 @@ https://ai.studio/apps/26ddf985-bc9b-4ffe-ad98-a8ef06466032
 2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
 3. Run the app:
    `npm run dev`
+
+## Published LEO STUDIO Site
+
+The complete Sites edition from [leo-studio-cyanotype.altanbagana33.chatgpt.site](https://leo-studio-cyanotype.altanbagana33.chatgpt.site/) is included in [`sites/leo-studio/`](sites/leo-studio/README.md). It contains the website source, optimized runtime images, original campaign PNGs, generation records, bilingual copy and QA captures.
+
+```sh
+cd sites/leo-studio
+npm start
+```
+
+Open http://127.0.0.1:4197/. This buildless edition needs no dependency installation or API key. The React application documented above remains at the repository root.
